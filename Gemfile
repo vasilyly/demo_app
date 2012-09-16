@@ -7,7 +7,7 @@ gem 'rails', '3.2.1'
 
 gem 'sqlite3', '1.3.5', :group => :development
 
-
+gem "postgres-pr"
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
